@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "AU2 Mobile (HK)",
+         "slug": "au2-mobile",
+         "provider": "au2mobile",
+         "isZone": false
+      }
+   ]
+}

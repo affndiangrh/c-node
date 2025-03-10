@@ -1,0 +1,53 @@
+{
+   "data": [
+      {
+         "id": 17282,
+         "name": "PUBG Mobile Global 2 (FAST)",
+         "slug": "pubg-mobile-tp",
+         "provider": "topuplive",
+         "isZone": false,
+         "type": "pubgm",
+         "skuId": 516
+      },
+      {
+         "id": 17229,
+         "name": "Honor Of Kings 2 (WORK, FAST)",
+         "slug": "honor-of-kings-tp",
+         "provider": "topuplive",
+         "isZone": false,
+         "type": "honor-of-kings",
+         "skuId": 532
+      },
+      {
+         "id": 17283,
+         "name": "Goddes Victory: Nikke (FAST)",
+         "slug": "goddes-victory-nikke-tp",
+         "provider": "topuplive",
+         "isZone": true,
+         "type": "goddessofvictory",
+         "skuId": 376,
+         "dropdown": [
+            {
+               "zoneId": "SEA",
+               "name": "SEA"
+            },
+            {
+               "zoneId": "KR",
+               "name": "KR"
+            },
+            {
+               "zoneId": "JP",
+               "name": "JP"
+            },
+            {
+               "zoneId": "NA",
+               "name": "NA"
+            },
+            {
+               "zoneId": "Global",
+               "name": "Global"
+            }
+         ]
+      }
+   ]
+}

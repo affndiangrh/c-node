@@ -1,0 +1,32 @@
+[2025-01-11]
+Add Check Region MLBB
+
+[2024-08-31]
+Add Vocagame Provider
+
+[2024-08-03]
+- Fix HDI, PUBG, AU2Mobile
+- Add Clash Of Clans, Clash Royale
+- Add Mobapay
+
+[2024-06-30]
+- Fix Pubg
+- Add Honor Of Kings
+- Update New List Game for Codashop and Dunia Games Provider
+
+[2023-07-14]
+- Fix undefined req body zoneId
+- Add Url Encode in Index.html For Id Game From Riot
+- Fix Lords Mobile Check
+
+[2023-04-18]
+- Add AU2Mobile [Codashop]
+- Add Revelation: Infinite Journey [Codashop]
+- Add Script Update List Game [See documentation.txt]
+
+[OLD]
+- Lupa pokoknya versi awal
+
+
+wish:
+Refactor Code and Rewrite the code to be Clean Code

@@ -1,0 +1,31 @@
+{
+   "name": "cek-id-game",
+   "version": "1.0.0",
+   "description": "Untuk Cek Id Game",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js",
+      "start:dev": "nodemon index.js",
+      "update:coda": "node update-list-game/codashopUpdate.js",
+      "update:dg": "node update-list-game/duniagamesUpdate.js",
+      "update:voca": "node update-list-game/vocagameUpdate.js"
+   },
+   "keywords": [
+      "cek",
+      "id",
+      "game"
+   ],
+   "author": "Rizqi Bagus Andrean",
+   "license": "ISC",
+   "dependencies": {
+      "axios": "^1.7.9",
+      "cheerio": "^1.0.0",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "fs": "^0.0.1-security",
+      "lodash": "^4.17.21",
+      "node-fetch": "^2.6.9",
+      "slugify": "^1.6.5"
+   }
+}

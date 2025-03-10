@@ -1,0 +1,11 @@
+{
+   "data": [
+      {
+         "id": 5000,
+         "name": "Mobile Legends (Mobapay)",
+         "slug": "mobile-legends-mp",
+         "provider": "mobapay",
+         "isZone": true
+      }
+   ]
+}

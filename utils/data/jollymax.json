@@ -1,0 +1,289 @@
+{
+   "data": [
+      {
+         "id": 12990181,
+         "name": "PUBG Mobile Global (Work)",
+         "slug": "pubg-mobile-jl",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "PUBG",
+         "payTypeId": "727310",
+         "goodsId": "G20230728095035804",
+         "appId": "APP20220811034444301"
+      },
+      {
+         "id": 12990181,
+         "name": "Tengen Toppa Gurren Lagann SEA",
+         "slug": "gurren-lagann-sea",
+         "provider": "jollymax",
+         "isZone": true,
+         "appAlias": "GurrenLagann",
+         "payTypeId": "758021",
+         "goodsId": "G20230919112701288",
+         "appId": "APP20230919072512901",
+         "dropdown": [
+            {
+               "zoneId": 1,
+               "name": "SEA-1"
+            },
+            {
+               "zoneId": 2,
+               "name": "SEA-2"
+            },
+            {
+               "zoneId": 3,
+               "name": "SEA-3"
+            },
+            {
+               "zoneId": 4,
+               "name": "SEA-4"
+            },
+            {
+               "zoneId": 5,
+               "name": "SEA-5"
+            },
+            {
+               "zoneId": 6,
+               "name": "SEA-6"
+            },
+            {
+               "zoneId": 7,
+               "name": "SEA-7"
+            },
+            {
+               "zoneId": 8,
+               "name": "SEA-8"
+            },
+            {
+               "zoneId": 9,
+               "name": "SEA-9"
+            },
+            {
+               "zoneId": 10,
+               "name": "SEA-10"
+            },
+            {
+               "zoneId": 11,
+               "name": "SEA-11"
+            },
+            {
+               "zoneId": 12,
+               "name": "SEA-2"
+            },
+            {
+               "zoneId": 13,
+               "name": "SEA-13"
+            },
+            {
+               "zoneId": 14,
+               "name": "SEA-14"
+            },
+            {
+               "zoneId": 15,
+               "name": "SEA-15"
+            },
+            {
+               "zoneId": 16,
+               "name": "SEA-16"
+            },
+            {
+               "zoneId": 17,
+               "name": "SEA-7"
+            }
+         ]
+      },
+      {
+         "id": 12990182,
+         "name": "Night of Full Moon",
+         "slug": "night-of-full-moon",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "NightofFullMoon",
+         "payTypeId": "738048",
+         "goodsId": "G20230915081312533",
+         "appId": "APP20230620110825701"
+      },
+      {
+         "id": 12990182,
+         "name": "Bstation",
+         "slug": "bstation",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "Bstation",
+         "payTypeId": "384132",
+         "goodsId": "G20221122113642801",
+         "appId": "APP20221115055829101"
+      },
+      {
+         "id": 12990182,
+         "name": "Future Footbal Master",
+         "slug": "future-footbal-master",
+         "provider": "jollymax",
+         "isZone": true,
+         "appAlias": "FFM",
+         "payTypeId": "441420",
+         "goodsId": "G20221027074228113",
+         "appId": "APP20221014104515401",
+
+         "dropdown": [
+            {
+               "zoneId": "1",
+               "name": "S1"
+            },
+            {
+               "zoneId": "2",
+               "name": "S2"
+            },
+            {
+               "zoneId": "3",
+               "name": "S3"
+            },
+            {
+               "zoneId": "4",
+               "name": "S4"
+            },
+            {
+               "zoneId": "5",
+               "name": "S5"
+            },
+            {
+               "zoneId": "6",
+               "name": "S6"
+            },
+            {
+               "zoneId": "7",
+               "name": "S7"
+            },
+            {
+               "zoneId": "8",
+               "name": "S8"
+            },
+            {
+               "zoneId": "9",
+               "name": "S9"
+            },
+            {
+               "zoneId": "10",
+               "name": "S10"
+            },
+            {
+               "zoneId": "11",
+               "name": "S11"
+            },
+            {
+               "zoneId": "12",
+               "name": "S12"
+            },
+            {
+               "zoneId": "13",
+               "name": "S13"
+            },
+            {
+               "zoneId": "14",
+               "name": "S14"
+            },
+            {
+               "zoneId": "15",
+               "name": "S15"
+            },
+            {
+               "zoneId": "16",
+               "name": "S16"
+            },
+            {
+               "zoneId": "17",
+               "name": "S17"
+            },
+            {
+               "zoneId": "18",
+               "name": "S18"
+            },
+            {
+               "zoneId": "19",
+               "name": "S19"
+            },
+            {
+               "zoneId": "20",
+               "name": "S20"
+            },
+            {
+               "zoneId": "21",
+               "name": "S21"
+            },
+            {
+               "zoneId": "22",
+               "name": "S22"
+            },
+            {
+               "zoneId": "23",
+               "name": "S23"
+            },
+            {
+               "zoneId": "24",
+               "name": "S24"
+            },
+
+            {
+               "zoneId": "25",
+               "name": "S25"
+            },
+            {
+               "zoneId": "26",
+               "name": "S26"
+            },
+            {
+               "zoneId": "27",
+               "name": "S27"
+            },
+            {
+               "zoneId": "28",
+               "name": "S28"
+            }
+         ]
+      },
+      {
+         "id": 12990182,
+         "name": "Kwai China",
+         "slug": "kwai-china",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "kwaishou",
+         "payTypeId": "478757",
+         "goodsId": "G20230113151956561",
+         "appId": "APP20230104120302902"
+      },
+      {
+         "id": 12990182,
+         "name": "Nimo TV",
+         "slug": "nimo-tv",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "nimo_tv",
+         "payTypeId": "720558",
+         "goodsId": "G20230817073056624",
+         "appId": "APP20220928064241202"
+      },
+      {
+         "id": 12990182,
+         "name": "Star Maker",
+         "slug": "star-maker",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "Star_Maker",
+         "payTypeId": "742486",
+         "goodsId": "G20230208072719815",
+         "appId": "APP20220928093218002"
+      },
+      {
+         "id": 12990182,
+         "name": "TikTol China (Douyin)",
+         "slug": "douyin",
+         "provider": "jollymax",
+         "isZone": false,
+         "appAlias": "nimo_tv",
+         "payTypeId": "765592",
+         "goodsId": "G20230509072625329",
+         "appId": "APP20230104123210101"
+      }
+   ]
+}

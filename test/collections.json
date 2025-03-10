@@ -1,0 +1,6686 @@
+{
+   "info": {
+      "name": "Cek ID Game Spesial",
+      "_postman_id": "b1a4e3a0-8b9e-4b9e-8b9e-4b9e8b9e4b9e",
+      "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+   },
+   "item": [
+      {
+         "name": "8 Ball Pool",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/8-ball-pool?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "8-ball-pool"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "AU2 Mobile",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/au2-mobile?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "au2-mobile"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Advent of God:Legends",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/advent-of-godlegends?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "advent-of-godlegends"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Among Heroes: Fantasy Samkok",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/among-heroes-fantasy-samkok?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "among-heroes-fantasy-samkok"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Angel Squad (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/angel-squad-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "angel-squad-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "AoV (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/aov-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "aov-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Arena Breakout",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/arena-breakout?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "arena-breakout"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Arena Mania: Magic Heroes",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/arena-mania-magic-heroes?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "arena-mania-magic-heroes"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Arena of Valor",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/arena-of-valor?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "arena-of-valor"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Asphalt 9: Legends",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/asphalt-9-legends?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "asphalt-9-legends"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Astral Guardians: Cyber Fantasy",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/astral-guardians-cyber-fantasy?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "astral-guardians-cyber-fantasy"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Atlantica Online (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/atlantica-online-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "atlantica-online-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Auto Chess ",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/auto-chess?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "auto-chess"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Azur Lane",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/azur-lane?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "azur-lane"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "BLEACH Mobile 3D",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bleach-mobile-3d?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bleach-mobile-3d"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Badlanders",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/badlanders?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "badlanders"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "BarbarQ",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/barbarq?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "barbarq"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Basketrio",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/basketrio?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "basketrio"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Battlenet (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/battlenet-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "battlenet-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Be The King: Judge Destiny",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/be-the-king-judge-destiny?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "be-the-king-judge-destiny"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bermuda",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bermuda?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bermuda"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bigo Live",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bigo-live?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bigo-live"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bigo Live",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bigolive?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bigolive"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bigo Live Voucher",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bigo-live-voucher?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bigo-live-voucher"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bioskop Online",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bioskop-online?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bioskop-online"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bleach Mobile 3D (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bleach-mobile-3d-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bleach-mobile-3d-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Blizzard Gift Card (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/blizzard-gift-card-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "blizzard-gift-card-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Boxing Star (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/boxing-star-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "boxing-star-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Brawl Stars",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/brawl-stars?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "brawl-stars"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Bstation",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/bstation?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "bstation"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Call of Duty Mobile",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/call-of-duty-mobile?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "call-of-duty-mobile"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Call of Duty Mobile (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/call-of-duty-mobile-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "call-of-duty-mobile-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Captain Tsubasa: Dream Team",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/captain-tsubasa-dream-team?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "captain-tsubasa-dream-team"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "City of Crime: Gang Wars",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/city-of-crime-gang-wars?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "city-of-crime-gang-wars"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Clash Royale",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/clash-royale?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "clash-royale"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Clash of Clans",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/clash-of-clans?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "clash-of-clans"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Cloud Song: Saga of Skywalkers",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/cloud-song-saga-of-skywalkers?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "cloud-song-saga-of-skywalkers"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Club Vegas",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/club-vegas?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "club-vegas"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Cooking Adventure",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/cooking-adventure?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "cooking-adventure"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Crasher Origin",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/crasher-origin?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "crasher-origin"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Crisis Action",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/crisis-action?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "crisis-action"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Crusader Kings III: Royal Court",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/crusader-kings-iii-royal-court?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "crusader-kings-iii-royal-court"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "DEAD TARGET: Zombie Games 3D",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dead-target-zombie-games-3d?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dead-target-zombie-games-3d"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "DG Mini Games (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dg-mini-games-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dg-mini-games-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "DG Rings Voucher (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dg-rings-voucher-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dg-rings-voucher-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dark Continent: Mist",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dark-continent-mist?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dark-continent-mist"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Diablo: Immortal",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/diablo-immortal?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "diablo-immortal"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Disorder",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/disorder?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "disorder"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Domino QiuQiu TopFun",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/domino-qiuqiu-topfun?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "domino-qiuqiu-topfun"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dragon City",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dragon-city?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dragon-city"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dragon Hunters: Heroes Legends",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dragon-hunters-heroes-legends?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dragon-hunters-heroes-legends"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dragon Raja",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dragon-raja?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dragon-raja"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dragon Raja (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dragon-raja-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dragon-raja-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "DreadOut (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dreadout-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dreadout-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dynastones (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dynastones-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dynastones-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Dynasty Warriors: Overlords",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dynasty-warriors-overlords?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dynasty-warriors-overlords"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "EA SPORTS FC Mobile",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/ea-sports-fc-mobile?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "ea-sports-fc-mobile"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "EGGY PARTY",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/eggy-party?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "eggy-party"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "EOS RED",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/eos-red?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "eos-red"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Echocalypse",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/echocalypse?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "echocalypse"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Elemental Titans: 3D Idle Arena",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/elemental-titans-3d-idle-arena?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "elemental-titans-3d-idle-arena"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Embers: Last Duel",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/embers-last-duel?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "embers-last-duel"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Entropy 2099",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/entropy-2099?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "entropy-2099"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Era of Celestials",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/era-of-celestials?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "era-of-celestials"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Farlight84",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/farlight84?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "farlight84"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Food Fantasy Crystal",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/food-fantasy-crystal?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "food-fantasy-crystal"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Football Master 2",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/football-master-2?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "football-master-2"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Football Master 2 (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/football-master-2-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "football-master-2-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Fortnite (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/fortnite-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "fortnite-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Fortnite (US)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/fortnite-us?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "fortnite-us"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Free Fire",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/free-fire?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "free-fire"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Free Fire Global (Beta)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/free-fire-global?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "free-fire-global"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Free Fire MAX",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/free-fire-max?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "free-fire-max"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Future Footbal Master",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/future-footbal-master?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "future-footbal-master"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Game Speed Up (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/game-speed-up-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "game-speed-up-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Game Speed Up Bundling (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/game-speed-up-bundling-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "game-speed-up-bundling-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Game of Sultans",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/game-of-sultans?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "game-of-sultans"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "GameQoo Bundling (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/gameqoo_bundling-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "gameqoo_bundling-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "GamesMax Booster (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/gamesmax-booster-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "gamesmax-booster-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Garena Shells Voucher",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/garena-shells-voucher?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "garena-shells-voucher"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Genshin Impact",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/genshin-impact?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "genshin-impact"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Genshin Impact (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/genshin-crystal-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "genshin-crystal-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Girls' Connect: Idle RPG",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/girls-connect-idle-rpg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "girls-connect-idle-rpg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Goddes Victory: Nikke (FAST)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/goddes-victory-nikke-tp?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "goddes-victory-nikke-tp"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Goddes Victory: Nikke (SLow)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/goddes-victory-nikke-a?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "goddes-victory-nikke-a"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Google Play (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/google-play-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "google-play-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Growtopia",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/growtopia?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "growtopia"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Hago",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/hago?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "hago"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Harry Potter: Magic Awakened",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/harry-potter-magic-awakened?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "harry-potter-magic-awakened"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Hay Day",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/hay-day?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "hay-day"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Heroes Evolved",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/heroes-evolved?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "heroes-evolved"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Heroes Evolved (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/heroes-evolved-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "heroes-evolved-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Heroes Evolved - Point Card (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/heroes-evolved-point-card-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "heroes-evolved-point-card-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Hogwarts Legacy",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/hogwarts-legacy?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "hogwarts-legacy"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Honkai Impact 3",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/honkai-impact-3?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "honkai-impact-3"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Honkai: Star Rail",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/honkai-star-rail?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "honkai-star-rail"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Identity V",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/identity-v?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "identity-v"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Idle Legends",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/idle-legends?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "idle-legends"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Idol Party",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/idol-party?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "idol-party"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Indoplay - Capsa Domino QQ Poker",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/indoplay-capsa-domino-qq-poker?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "indoplay-capsa-domino-qq-poker"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Island King",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/island-king?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "island-king"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Jade Dynasty: New Fantasy",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/jade-dynasty-new-fantasy?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "jade-dynasty-new-fantasy"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Jade Legends: Immortal Realm ",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/jade-legends-immortal-realm?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "jade-legends-immortal-realm"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "King of Avalon",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/king-of-avalon?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "king-of-avalon"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Kings Choice",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/kings-choice?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "kings-choice"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Kode Voucher Google Play",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/kode-voucher-google-play?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "kode-voucher-google-play"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Kwai China",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/kwai-china?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "kwai-china"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "LUXY: Domino and Poker",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/luxy-domino-and-poker?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "luxy-domino-and-poker"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Langit Musik (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/langit-musik-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "langit-musik-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Laplace M",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/laplace-m?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "laplace-m"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "League of Legends",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/league-of-legends?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "league-of-legends"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "League of Legends : Wild Rift (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/league-of-legends-wild-rift-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "league-of-legends-wild-rift-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "League of Legends: Wild Rift",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/league-of-legends-wild-rift?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "league-of-legends-wild-rift"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Legends of Runeterra",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/legends-of-runeterra?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "legends-of-runeterra"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Life Makeover",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/life-makeover?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "life-makeover"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "LifeAfter",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/lifeafter?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "lifeafter"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "LifeAfter (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/life-after-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "life-after-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Lita",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/lita?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "lita"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Lita (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/lita-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "lita-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Lokapala (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/lokapala-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "lokapala-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Ludo Club",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/ludo-club?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "ludo-club"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Luna Fantasia (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/luna_fantasia-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "luna_fantasia-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MARVEL Duel",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/marvel-duel?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "marvel-duel"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MARVEL SNAP",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/marvel-snap?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "marvel-snap"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MARVEL Super War",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/marvel-super-war?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "marvel-super-war"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MIGO Live",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/migo-live?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "migo-live"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MU Archangel",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mu-archangel?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mu-archangel"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MU ORIGIN 3",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mu-origin-3?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mu-origin-3"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MU Origin 2",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mu-origin-2?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mu-origin-2"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MU Origin 3 (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mu-origin-3-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mu-origin-3-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Madtale: Idle RPG",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/madtale-idle-rpg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "madtale-idle-rpg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Magnet Majamojo Bundling (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/magnet_majamojo_bundling-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "magnet_majamojo_bundling-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Mahjong Soul",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mahjong-soul?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mahjong-soul"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MapleStory M",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/maplestory-m?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "maplestory-m"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Marvel Super War (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/marvel-super-war-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "marvel-super-war-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Maxstream (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/maxstream-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "maxstream-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MeYo",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/meyo?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "meyo"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Metal Slug: Awakening",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/metal-slug-awakening?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "metal-slug-awakening"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Mi-cash (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mi-cash-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mi-cash-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Miko Era: Twelve Myths",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/miko-era-twelve-myths?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "miko-era-twelve-myths"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Minecraft (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/minecraft-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "minecraft-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Mirage: Perfect Skyline",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mirage-perfect-skyline?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mirage-perfect-skyline"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Mobile Legends",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mobile-legends?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mobile-legends"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Mobile Legends (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mobile-legends-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mobile-legends-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Mobile Legends: Adventure",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/mobile-legends-adventure?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "mobile-legends-adventure"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Modern Combat 5: Blackout",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/modern-combat-5-blackout?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "modern-combat-5-blackout"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Modern Strike Online",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/modern-strike-online?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "modern-strike-online"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "MusicMax (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/musicmax-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "musicmax-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Need for Speed No Limits",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/need-for-speed-no-limits?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "need-for-speed-no-limits"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "NetEase Pay (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/netease-pay-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "netease-pay-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Never After",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/never-after?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "never-after"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Neverland Era",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/neverland-era?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "neverland-era"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "New Tales from the Borderlands",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/new-tales-from-the-borderlands?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "new-tales-from-the-borderlands"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Night of Full Moon",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/night-of-full-moon?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "night-of-full-moon"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Nimo TV",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/nimo-tv?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "nimo-tv"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Nintendo Membership (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/nintendo-membership-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "nintendo-membership-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Nova Fantasy",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/nova-fantasy?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "nova-fantasy"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "ONE PUNCH MAN: The Strongest",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/one-punch-man-the-strongest?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "one-punch-man-the-strongest"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "One Punch Man : The Strongest (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/one-punch-man-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "one-punch-man-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Onmyoji Arena",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/onmyoji-arena?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "onmyoji-arena"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PSN PlayStation Card",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/psn-playstation-card?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "psn-playstation-card"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PUBG MOBILE GLOBAL 1 (FAST)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-global-1-fast?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-global-1-fast"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PUBG Mobile (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PUBG Mobile GLobal 2 (Slow)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-a?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-a"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PUBG Mobile Global (Work)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-jl?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-jl"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PUBG Mobile Global 2 (FAST)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-tp?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-tp"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "PUBG Mobile UC Redeem Code",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-uc-redeem-code?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-uc-redeem-code"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Paket Google Play Pass (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/paket-google-play-pass-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "paket-google-play-pass-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Panggil Aku Kaisar",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/panggil-aku-kaisar?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "panggil-aku-kaisar"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Path of Immortals",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/path-of-immortals?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "path-of-immortals"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Path to Nowhere",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/path-to-nowhere?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "path-to-nowhere"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Paw Rumble",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/paw-rumble?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "paw-rumble"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Paw Rumble (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/paw-rumble-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "paw-rumble-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Perfect World (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/perfect-world-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "perfect-world-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Phantom Blade: Executioners",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/phantom-blade-executioners?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "phantom-blade-executioners"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Point Blank",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/point-blank?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "point-blank"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Point Blank (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/point-blank-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "point-blank-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Punishing: Gray Raven",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/punishing-gray-raven?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "punishing-gray-raven"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "RF Classic (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/rf-classic-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "rf-classic-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "RF Remastered (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/rf-remastered-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "rf-remastered-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Ragnarok M: Eternal Love Big Cat Coin",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/ragnarok-m-eternal-love-big-cat-coin?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "ragnarok-m-eternal-love-big-cat-coin"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Ragnarok Origin",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/raganarok-origin?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "raganarok-origin"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Ragnarok Retro (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/ragnarok-retro-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "ragnarok-retro-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Ragnarok X: Next Generation",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/ragnarok-x-next-generation?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "ragnarok-x-next-generation"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Razer Gold (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/razer-gold-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "razer-gold-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Realm of Spirit",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/realm-of-spirit?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "realm-of-spirit"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Return of Condor Heroes (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/roch-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "roch-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Revelation Mobile (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/revelation-mobile-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "revelation-mobile-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Revelation: Infinite Journey",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/revelation-infinite-journey?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "revelation-infinite-journey"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Rhythm Hive",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/rhythm-hive?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "rhythm-hive"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Saint Seiya: Awakening",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/saint-seiya-awakening?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "saint-seiya-awakening"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Sausage Man",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/sausage-man?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "sausage-man"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Scroll of Onmyoji: Sakura & Sword",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/scroll-of-onmyoji-sakura-and-sword?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "scroll-of-onmyoji-sakura-and-sword"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Shining Nikki",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/shining-nikki?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "shining-nikki"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Sky: Children of the Light",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/sky-children-of-the-light?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "sky-children-of-the-light"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Snowbreak: Containment Zone",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/snowbreak-containment-zone?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "snowbreak-containment-zone"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Speed Drifters",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/speed-drifters?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "speed-drifters"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Speed Drifters (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/speed-drifters-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "speed-drifters-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Star Maker",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/star-maker?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "star-maker"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "State of Survival",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/state-of-survival?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "state-of-survival"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Steam Wallet Code - Indonesia",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/steam-wallet-code-indonesia?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "steam-wallet-code-indonesia"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Stumble Guys",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/stumble-guys?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "stumble-guys"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Super Mecha Champions",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/super-mecha-champions?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "super-mecha-champions"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Super Sus",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/super-sus?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "super-sus"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Tamashi: Rise of Yokai",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/tamashi-rise-of-yokai?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "tamashi-rise-of-yokai"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Teen Patti Gold",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/teen-patti-gold?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "teen-patti-gold"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Tengen Toppa Gurren Lagann SEA",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/gurren-lagann-sea?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "gurren-lagann-sea"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "The Legend of Neverland (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/the-legend-of-neverland-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "the-legend-of-neverland-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "The Lord of the Rings: Rise to War",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/the-lord-of-the-rings-rise-to-war?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "the-lord-of-the-rings-rise-to-war"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "The Quarry",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/the-quarry?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "the-quarry"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "The Return of Condor Heroes",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/the-return-of-condor-heroes?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "the-return-of-condor-heroes"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Thetan Arena",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/thetan-arena?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "thetan-arena"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "TikTol China (Douyin)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/douyin?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "douyin"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Time Raiders",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/time-raiders?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "time-raiders"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Tinder (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/tinder-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "tinder-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Tom and Jerry : Chase (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/tom-and-jerry-chase-dg?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "tom-and-jerry-chase-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Tom and Jerry: Chase",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/tom-and-jerry-chase?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "tom-and-jerry-chase"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Top Eleven",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/top-eleven?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "top-eleven"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Top Up DG Rings (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/dg-rings-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "dg-rings-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Top Up FF ( Free Fire) (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/freefire-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "freefire-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Top Up Garena Shell (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/garena-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "garena-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Top Up PUBG (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/pubg-mobile-voucher-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "pubg-mobile-voucher-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Tower of Fantasy (Slow)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/tower-of-fantasy-a?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "tower-of-fantasy-a"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Undawn",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/undawn?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "undawn"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Undawn (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/undawn-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "undawn-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Unipin (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/unipin-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "unipin-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "VALORANT",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/valorant?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "valorant"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Vidio",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/vidio?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "vidio"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Vision Plus",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/vision-plus?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "vision-plus"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Viu Premium (Kode Voucher)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/viu-premium-kode-voucher?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "viu-premium-kode-voucher"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Voucher Steam (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/voucher-steam-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "voucher-steam-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "WWE 2K22 Steam",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/wwe-2k22-steam?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "wwe-2k22-steam"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "War Planet Online",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/war-planet-online?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "war-planet-online"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "WeTV VIP",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/wetv-vip?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "wetv-vip"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Webnovel",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/webnovel?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "webnovel"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Westward Adventure",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/westward-adventure?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "westward-adventure"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Whisper of Shadow",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/whisper-of-shadow?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "whisper-of-shadow"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Wild Hunter: Goddess",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/wild-hunter-goddess?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "wild-hunter-goddess"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "World War Heroes",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/world-war-heroes?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "world-war-heroes"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "XBOX Live Gift Card (DG)",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/xbox-live-dg?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "xbox-live-dg"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "YS 6 Mobile VNG",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/ys-6-mobile-vng?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "ys-6-mobile-vng"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "Yong Heroes",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/yong-heroes?id=xxxx&zone=xxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "yong-heroes"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  },
+                  {
+                     "key": "zone",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "name": "ZEPETO",
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/zepeto?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "zepeto"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/test24?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "test24"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/test41?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "test41"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      },
+      {
+         "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+               "raw": "http://localhost:3000/api/game/test155?id=xxxx",
+               "protocol": "https",
+               "host": [
+                  "localhost:3000"
+               ],
+               "path": [
+                  "api",
+                  "game",
+                  "test155"
+               ],
+               "query": [
+                  {
+                     "key": "id",
+                     "value": "xxx"
+                  }
+               ]
+            }
+         },
+         "response": []
+      }
+   ]
+}

@@ -1,0 +1,20 @@
+{
+   "data": [
+      {
+         "id": 500220,
+         "name": "PUBG GLOBAL 1 (RECOMENDED, FAST, WORK)",
+         "slug": "pubg-mobile-global-1-g",
+         "pathName": "pubg-mobile-global-1-fast",
+         "provider": "gameku",
+         "isZone": false
+      },
+      {
+         "id": 5002230,
+         "name": "Honor Of Kings (RECOMENDED, FAST, WORK)",
+         "slug": "honor-of-kings-g",
+         "pathName": "honor-of-kings-1-fast",
+         "provider": "gameku",
+         "isZone": false
+      }
+   ]
+}

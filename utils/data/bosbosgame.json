@@ -1,0 +1,13 @@
+{
+   "data": [
+      {
+         "id": 2092789,
+         "name": "Higgs Domino",
+         "slug": "higgs-domino",
+         "provider": "bosbosgame",
+         "isZone": false,
+         "costKey": "com.neptune.domino.coincard0035",
+         "infullType": "14"
+      }
+   ]
+}
