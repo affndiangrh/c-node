@@ -27,13 +27,13 @@ app.get('/', (req, res) => {
 
    return res.json({
       name: 'Cek Data Game',
-      author: 'Bagusok',
+      author: 'Fandii',
       data: _.orderBy(newDataGame, ['name'], ['asc']),
    });
 });
 
 app.get('/*', (req, res) => {
-   res.status(404).json({ error: 'Kembalilah ke jalan yang benar' });
+   res.status(404).json({ error: 'Api Ga Valid. Hubungi : @affandiangrh' });
 });
 
 app.listen(port, () => {
