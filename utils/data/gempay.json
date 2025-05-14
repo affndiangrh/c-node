@@ -1,11 +1,18 @@
 {
-   "data": [
-      {
-         "id": 5000,
-         "name": "! Cek Region MLBB",
-         "slug": "check-region-mlbb",
-         "provider": "gempay-check-region-mlbb",
-         "isZone": true
-      }
-   ]
+  "data": [
+    {
+      "id": 5000,
+      "name": "! Cek Region MLBB",
+      "slug": "check-region-mlbb",
+      "provider": "gempay-check-region-mlbb",
+      "isZone": true
+    },
+    {
+      "id": 5001,
+      "name": "Mobile Legends Global",
+      "slug": "mobile-legends-global",
+      "provider": "gempay-check-region-mlbb",
+      "isZone": true
+    }
+  ]
 }
