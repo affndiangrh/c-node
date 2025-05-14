@@ -13,6 +13,20 @@
       "slug": "mobile-legends-global",
       "provider": "gempay-check-region-mlbb",
       "isZone": true
+    },
+    {
+      "id": 5002,
+      "name": "Mobile Legends (Malaysia)",
+      "slug": "mobile-legends-malaysia",
+      "provider": "gempay-check-region-mlbb",
+      "isZone": true
+    },
+    {
+      "id": 5003,
+      "name": "Mobile Legends (Philippines)",
+      "slug": "mobile-legends-philippines",
+      "provider": "gempay-check-region-mlbb",
+      "isZone": true
     }
   ]
 }
