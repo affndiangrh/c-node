@@ -48,3 +48,7 @@ Kalo Error atau ada game yang gabisa bisa hubungi saya. (Sertakan nama game dan 
 Mau Nambah game jg bisa.
 
 Gabisa install? Langsung saja hubungi untuk jasa install.
+
+## WARN
+
+Script check id bebas diperjual belikan / digunakan, Mohon untuk tidak MENGUBAH & MENGHAPUS semua license didalam code. Jika terjadi error dalam code atas tindakan menghapus / menambah syntax bukan tanggung jawab gue. Kesusahan Install? Bisa dm @affandiangrh.
